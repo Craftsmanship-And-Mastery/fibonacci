@@ -2,4 +2,5 @@
 Testing jenkins with github
 
 
-[![Build Status](http://127.0.0.1:8080/buildStatus/icon?job=use-conditional-expressions)](http://127.0.0.1:8080/job/use-conditional-expressions/)
+---
+[![Build Status](http://ec2-3-126-109-157.eu-central-1.compute.amazonaws.com/buildStatus/icon?job=fibonacci-repo)](http://ec2-3-126-109-157.eu-central-1.compute.amazonaws.com/job/fibonacci-repo/)
